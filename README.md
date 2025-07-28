@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-husnain00&label=Profile%20views&color=0e75b6&style=flat" alt="ali-husnain00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-husnain00" alt="ali-husnain00" /></a> </p>
-
 - 🔭 I’m currently working on [EvoChat (Chat Application)](https://evochat1.netlify.app/)
 
 - 🌱 I’m currently learning **Typescript and Tailwind CSS**
@@ -32,4 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-husnain00&show_icons=true&locale=en&layout=compact" alt="ali-husnain00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-husnain00&show_icons=true&locale=en" alt="ali-husnain00" /></p>
-
