@@ -18,7 +18,7 @@
 
 I'm a **Software Engineering Student** and **Full Stack Developer** based in Pakistan. Currently, I work as a **React Developer at Devolyte**, where I focus on frontend architecture.
 
-I enjoy the entire development process—from figuring out the backend logic to creating a user interface that actually feels good to use. My main focus right now is **Next.js** and the **MERN stack**.
+I enjoy the entire development process, from figuring out the backend logic to creating a user interface that actually feels good to use. My main focus right now is **Next.js** and the **MERN stack**.
 
 - 🔭 **Current Focus:** Advanced React patterns and Next.js at Devolyte.
 - 🌱 **Learning:** Deepening my understanding of **MySQL** and System Design.
