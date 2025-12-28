@@ -4,7 +4,7 @@
 
   ### 🚀 Full Stack Developer | Software Engineering Student
   
-  *Building modern, scalable applications with pixel-perfect precision.*
+  *Writing clean code and building scalable web apps.*
 
   [![](https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=vercel)](https://alihusnaindev.vercel.app/)
   [![](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-husnain00)
@@ -16,17 +16,17 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Full Stack Developer** and **Software Engineering Student** based in Pakistan. currently working as a **React Developer at Devolyte**, where I focus on building robust frontend architectures. 
+I'm a **Software Engineering Student** and **Full Stack Developer** based in Pakistan. Currently, I work as a **React Developer at Devolyte**, where I focus on frontend architecture. 
 
-I bridge the gap between design and engineering, specializing in building high-performance web applications using **Next.js** and the **MERN stack**. Whether it's complex backend logic or a sleek UI, I love creating solutions that scale.
+I enjoy the entire development process—from figuring out the backend logic to creating a user interface that actually feels good to use. My main focus right now is **Next.js** and the **MERN stack**.
 
-- 🔭 **Currently working on:** Advanced React patterns and Next.js applications at Devolyte.
-- 🌱 **Currently learning:** Deepening my knowledge in **MySQL** and System Design.
-- ⚡ **Fun fact:** When I'm not debugging code, I'm usually playing **Cricket** 🏏 or binge-watching a good web series.
+- 🔭 **Current Focus:** Advanced React patterns and Next.js at Devolyte.
+- 🌱 **Learning:** Deepening my understanding of **MySQL** and System Design.
+- ⚡ **Offline:** When I'm not coding, I'm usually playing **Cricket** 🏏 or watching a good series.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -55,7 +55,7 @@ I bridge the gap between design and engineering, specializing in building high-p
 
 <div align="center">
   
-  **Let's build something amazing together!**
+  **Let's build something amazing.**
   
   [![](https://visitcount.itsvg.in/api?id=ali-husnain00&label=Profile%20Views&color=12&icon=5&pretty=true)](https://github.com/ali-husnain00)
 
