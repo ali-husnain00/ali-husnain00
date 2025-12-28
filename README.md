@@ -42,14 +42,6 @@ I enjoy the entire development process—from figuring out the backend logic to 
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=ali-husnain00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -61,12 +53,6 @@ I enjoy the entire development process—from figuring out the backend logic to 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-husnain00&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
-
-**Top Contributed Repo**
-
-![](https://github-contributor-stats.vercel.app/api?username=ali-husnain00&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
 
 ---
 
