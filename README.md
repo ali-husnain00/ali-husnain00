@@ -16,13 +16,13 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Software Engineering Student** and **Full Stack Developer** based in Pakistan. Currently, I work as a **React Developer at Devolyte**, architecting clean, intuitive frontend interfaces.
+I am a **Software Engineering Student** and **Full Stack Developer** based in Pakistan. Previously, I worked as a **React Developer at Devolyte**, where I focused on frontend architecture and UI development.
 
-I thrive across the entire development lifecycle—from engineering robust backend logic to crafting polished user interfaces that feel effortless to use. My current core stack revolves around **Next.js** and the **MERN ecosystem**.
+I enjoy the entire development lifecycle—from engineering robust backend logic to crafting polished user interfaces that feel effortless to use. My current core stack revolves around **Next.js** and the **MERN ecosystem**.
 
 - 🔭 **Current Focus:** Advanced JavaScript architectures and Python development.
 - 🌱 **Learning:** Deepening my expertise in **System Design** and optimizing **MySQL** databases.
-- ⚡ **Offline:** When I'm away from the screen, you'll probably find me on the **Cricket** pitch 🏏 or binge-watching a compelling series.
+- ⚡ **Offline:** When I'm away from the screen, you'll probably find me on the **Cricket** pitch 🏏 or catching up on a good series.
 
 ---
 
