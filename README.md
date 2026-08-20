@@ -20,10 +20,6 @@ I am a **Software Engineering Student** and **Full Stack Developer** based in Pa
 
 I enjoy the entire development lifecycle—from engineering robust backend logic to crafting polished user interfaces that feel effortless to use. My current core stack revolves around **Next.js** and the **MERN ecosystem**.
 
-- 🔭 **Current Focus:** Advanced JavaScript architectures and Python development.
-- 🌱 **Learning:** Deepening my expertise in **System Design** and optimizing **MySQL** databases.
-- ⚡ **Offline:** When I'm away from the screen, you'll probably find me on the **Cricket** pitch 🏏 or catching up on a good series.
-
 ---
 
 ### 💻 Tech Stack
